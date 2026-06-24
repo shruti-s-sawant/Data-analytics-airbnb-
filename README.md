@@ -62,6 +62,26 @@ Listings are concentrated in specific neighbourhood groups.
 Room type significantly influences pricing.
 Review activity changes over time, indicating shifts in platform usage and demand.
 
+6. Which neighbourhood group has the highest average listing price?
+Used groupby() and mean().
+Visualized using a bar chart.
+
+7. Do more expensive listings get more reviews?
+Compared price and review counts.
+Visualized using a scatter plot.
+
+8. Which hosts own the most properties?
+Used value_counts() on host names.
+Visualized using a bar chart.
+
+9. Which room type receives the most reviews?
+Grouped room types by reviews.
+Visualized using a bar chart.
+
+10. What is the relationship between service fee and listing price?
+Compared service fee and price.
+Visualized using a scatter plot.
+
 **kills Demonstrated
 Data Cleaning
 Exploratory Data Analysis (EDA)
