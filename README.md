@@ -1,4 +1,4 @@
-# Data-analytics-airbnb-
+# Python-Airbnb-EDA
 Airbnb Data Analysis Project
 
 **Project Overview
